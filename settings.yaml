@@ -1,0 +1,3 @@
+face_detector:
+  model_path: /home/minhbq/models/retinaface/R50
+  confident_score_threshold: 0.5
